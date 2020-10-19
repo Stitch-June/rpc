@@ -1,0 +1,11 @@
+{
+    "name": "gaobinzhan/rpc",
+    "description": "rpc",
+    "authors": [
+        {
+            "name": "gaobinzhan",
+            "email": "gaobinzhan@gmail.com"
+        }
+    ],
+    "require": {}
+}
